@@ -1,1 +1,5 @@
-# CSCI271_GitIntro_KyleKarp
+# My First GitHub Repository
+This is my very first repository on GitHub!
+**Author:** [Kyle Karp]
+**Date Created:** Aug 28, 2026
+**Purpose:** Practicing GitHub basics, including creating a repository and a README file.
